@@ -23,7 +23,7 @@ Step 4: Integrate Interaction and Usability Features
 Define and design interaction behaviors such as hover states, transitions, and feedback.Ensure usability by following principles like consistency, feedback, affordance, and accessibility.Simulate user journeys (e.g., onboarding, checkout, profile edit) in prototypes.
 ## Output:
 
-<img width="329" height="629" alt="Screenshot 2025-09-01 143514" src="https://github.com/user-attachments/assets/d019fa28-4137-46cc-b680-48ef75aa0429" />
+    <img width="329" height="629" alt="Screenshot 2025-09-01 143514" src="https://github.com/user-attachments/assets/d019fa28-4137-46cc-b680-48ef75aa0429" />
 
 ## Result:
 
